@@ -1,0 +1,4 @@
+pytest
+openai  # For OpenAI API calls
+python-dotenv
+google-genai  # For Google Gemini API calls
